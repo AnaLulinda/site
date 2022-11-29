@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-AU-Compatible" content="IE=edge">
+    <title>Filme Campeões de Biblheteria </title>
+    <meta name="viewport" content="windth=device-wind, initial - scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+</html>
+
+<body>
+    <div id="cabecalho">
+        <br><p> Filmes Campeões de Bilheteria Mundial</p>
+    </div>
+    <div id="menu">
+        <br><p>A importância do cinema </p>
+        <p> Uma das principais ações do cinema é a capacidade de fazer o espectador se emocionar e refletir. Isso usado para tratar de questões importantes que envolvem nossa sociedade, resulta em uma ferramenta muito poderosa para atingir as pessoas de maneira diferente.</p>
+    </div>
+    <div id="principal">
+        <br><p>Ranking Mundial </p>
+        <p> 1- Vingadores: Ultimato (2019) <div id="imgvingaores">
+            <img src="imgvingadores.png"></p>
+        <p> 2- Avatar (2009) <div id="imgavatar">
+            <img src="imgavatar.png">  </p>
+        <p> 3-Titanic (1997)   </div>
+            <div id="imgtitanic">
+                <img src="imgtitanic.png">
+            </div></p>
+        <p> 4-Star Wars: Episódio VII - O Despertar da Força (2015) <div id="imgstarwars">
+            <img src="imgstarwars.png">
+        </div> </p>
+    </div>
+    <div id="rodape">
+        <br><p> Filmes disponíveis no Disney+ e Star+</p>
+    </div>
+</body>
